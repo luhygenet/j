@@ -25,16 +25,16 @@ Further more users can search for specific items they have lost.
 - **Role Assignment**: Assign specific roles to users, defining their access level and permissions within the system.
 
 
-- **Feature 1**: [Reporting and Item Posting
+- **Feature 1**: Reporting and Item Posting
 Create: Users can create reports and post items they've found by providing detailed descriptions and attaching accompanying images. 
 Read: Other users can browse and view the reported items.
 Update: Users can update their posted items by editing the descriptions or adding additional information.
-Delete: Users have the ability to remove their posted items if necessary, keeping the repository organized and up-to-date.]
-- **Feature 2**: [Advanced Search Filters
+Delete: Users have the ability to remove their posted items if necessary, keeping the repository organized and up-to-date.
+- **Feature 2**: Advanced Search Filters
 Create: Users can generate advanced search filters by specifying criteria such as item category, color, location, etc and tailoring their search to their preferences. Upon defining these filters, users can save them for future use.
 Read: Users have the ability to access and review their saved advanced search filters.
 Update: Users can modify the settings of their existing advanced search filters, either by adjusting the selected criteria or by adding new filter options. This flexibility ensures that users can refine their search parameters as needed.
-Delete: Users are also able to remove saved advanced search filters from their profile, offering the option to clear out outdated filters or make room for creating new ones.]
+Delete: Users are also able to remove saved advanced search filters from their profile, offering the option to clear out outdated filters or make room for creating new ones.
 
 
 
