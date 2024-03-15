@@ -26,14 +26,20 @@ Further more users can search for specific items they have lost.
 
 
 - **Feature 1**: Reporting and Item Posting
-Create: Users can create reports and post items they've found by providing detailed descriptions and attaching accompanying images. 
+Create: Users can create reports and post items they've found by providing detailed descriptions and attaching accompanying images.
+ 
 Read: Other users can browse and view the reported items.
+
 Update: Users can update their posted items by editing the descriptions or adding additional information.
+
 Delete: Users have the ability to remove their posted items if necessary, keeping the repository organized and up-to-date.
 - **Feature 2**: Comment Section
 Create: Users can add comments to the site. This fosters a sense of community engagement and collaboration.
+
 Read: Users can view comments left by others, facilitating communication and knowledge sharing within the platform.
+
 Update: Users have the ability to edit their own comments, enabling them to correct mistakes or update their thoughts as needed.
+
 Delete: Users can delete their comments if they no longer wish to have them displayed.
 
 
